@@ -1,0 +1,27 @@
+# ninja log v5
+1	10034	7099845050000000	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/main.xcl	62291daf58ca3152
+10036	10530	7099845058723877	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/main.pbi	71fee62f526dacdd
+10532	10989	7099845063326461	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbd	e19fd2d07f7b90e5
+10991	12747	7099845080673154	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbw	f852acdb26d2634
+1	103	7099853070000000	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/main.xcl	f120c247450c9ccb
+104	145	7099853072610099	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/main.pbi	71fee62f526dacdd
+146	169	7099853072869652	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbd	e19fd2d07f7b90e5
+170	498	7099853075936172	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbw	f852acdb26d2634
+0	182	7099854393071263	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/main.pbi	71fee62f526dacdd
+184	213	7099854393400509	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbd	e19fd2d07f7b90e5
+219	600	7099854396457499	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbw	f852acdb26d2634
+0	48	7099856167208690	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/main.pbi	71fee62f526dacdd
+50	69	7099856167521172	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbd	e19fd2d07f7b90e5
+0	364	7099856222799323	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbw	f852acdb26d2634
+0	164	7099856780376331	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/main.pbi	71fee62f526dacdd
+165	186	7099856780624360	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbd	e19fd2d07f7b90e5
+187	579	7099856784291261	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbw	f852acdb26d2634
+1	46	7099857138242160	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/main.pbi	71fee62f526dacdd
+47	68	7099857138492436	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbd	e19fd2d07f7b90e5
+69	333	7099857140999020	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbw	f852acdb26d2634
+0	67	7099981576509681	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/main.pbi	71fee62f526dacdd
+69	103	7099981576830259	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbd	e19fd2d07f7b90e5
+104	527	7099981580893147	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbw	f852acdb26d2634
+0	57	7099984563805377	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/main.pbi	71fee62f526dacdd
+58	80	7099984564061234	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbd	e19fd2d07f7b90e5
+81	524	7099984568218977	C:/Users/wseom/embedded_programming/lesson1/Debug/BrowseInfo/project.pbw	f852acdb26d2634
