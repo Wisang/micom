@@ -26,7 +26,7 @@ rule PDBLINK
 #Build steps
 build C$:\Users\wseom\embedded_programming\lesson5\Debug\BrowseInfo\main.xcl : COMPILER_XCL 
   xclcommand = -source_file C$:\Users\wseom\embedded_programming\lesson5\main.c -xcl_file C$:\Users\wseom\embedded_programming\lesson5\Debug\BrowseInfo\main.xcl -macro_file C$:\Users\wseom\embedded_programming\lesson5\Debug\BrowseInfo\main.tmp -icc_path "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\bin\iccarm.exe"
-  flags = C$:\Users\wseom\embedded_programming\lesson5\main.c -o C$:\Users\wseom\embedded_programming\lesson5\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --no_clustering --no_scheduling --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -Ol --predef_macros C$:\Users\wseom\embedded_programming\lesson5\Debug\BrowseInfo\main.tmp
+  flags = C$:\Users\wseom\embedded_programming\lesson5\main.c -o C$:\Users\wseom\embedded_programming\lesson5\Debug\Obj\ --debug --endian=little --cpu=Cortex-M4 -e --fpu=VFPv4_sp --dlib_config "C$:\Program$ Files\IAR$ Systems\Embedded$ Workbench$ 9.1\arm\inc\c\DLib_Config_Normal.h" -Oh --predef_macros C$:\Users\wseom\embedded_programming\lesson5\Debug\BrowseInfo\main.tmp
   rspfile_name = C$:\Users\wseom\embedded_programming\lesson5\Debug\BrowseInfo\main.xcl.rsp
 
 build C$:\Users\wseom\embedded_programming\lesson5\Debug\BrowseInfo\main.pbi : INDEXER C$:\Users\wseom\embedded_programming\lesson5\Debug\BrowseInfo\main.xcl |  $
