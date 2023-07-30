@@ -11,11 +11,15 @@ C:\Users\wseom\embedded_programming\lesson12\Debug\BrowseInfo\delay.pbi
 -I
 C:\Users\wseom\embedded_programming\lesson12
 -I
+C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\CMSIS\Core\Include\
+-I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c\aarch32
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc
 -I
 C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\inc\c
+-I
+C:\Program Files\IAR Systems\Embedded Workbench 9.1\arm\CMSIS\Core\Include
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
