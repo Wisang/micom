@@ -86,14 +86,6 @@
             </outputs>
         </file>
         <forcedrebuild>
-            <name>$PROJ_DIR$\main.c</name>
-            <tool>ICCARM</tool>
-        </forcedrebuild>
-        <forcedrebuild>
-            <name>[MULTI_TOOL]</name>
-            <tool>ILINK</tool>
-        </forcedrebuild>
-        <forcedrebuild>
             <name>[REBUILD_ALL]</name>
         </forcedrebuild>
     </configuration>
